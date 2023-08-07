@@ -1,9 +1,9 @@
 class Preprocessor:
     def __init__(self):
 
-        pass
+    pass
     def preprocess_cv(self):
-
+       # we'll do the preprocess for the cv
 
     def preprocess_job(self):
 
