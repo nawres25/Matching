@@ -3,7 +3,11 @@ class Preprocessor:
 
     pass
     def preprocess_cv(self):
+<<<<<<< HEAD
        # we'll do the preprocess for the cv
+=======
+        #The preprocess of the cv
+>>>>>>> newme
 
     def preprocess_job(self):
 
